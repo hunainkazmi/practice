@@ -21,4 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* ... hello rails 
+
+new rails app branch fix usigs
